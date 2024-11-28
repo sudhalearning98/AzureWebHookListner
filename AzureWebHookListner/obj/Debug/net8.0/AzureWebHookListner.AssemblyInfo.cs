@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureWebHookListner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096f8ac0eccaa44bccf7cc284a4563eb4613d2bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f72d5946914620c4ff349d5a20da3043ecae440")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureWebHookListner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureWebHookListner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
