@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xLtlk4kihbQGkNGljmg0/6JJKjtsiua3wDavLf/vrJ4=",
+  "Source": "AzureWebHookListner",
+  "BasePath": "_content/AzureWebHookListner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

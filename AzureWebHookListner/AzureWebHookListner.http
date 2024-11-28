@@ -1,0 +1,6 @@
+@AzureWebHookListner_HostAddress = http://localhost:5250
+
+GET {{AzureWebHookListner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
